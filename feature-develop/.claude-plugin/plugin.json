@@ -1,0 +1,8 @@
+{
+  "name": "feature-develop",
+  "description": "Guided feature development with systematic codebase exploration, architecture design, and quality review phases. Uses parallel agent launches for efficient analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "GOODA"
+  }
+}
