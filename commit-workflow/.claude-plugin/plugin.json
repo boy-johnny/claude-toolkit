@@ -1,0 +1,8 @@
+{
+  "name": "commit-workflow",
+  "description": "Streamline your git workflow with simple commands for committing, pushing, and creating pull requests. Includes branch cleanup utilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "GOODA"
+  }
+}
