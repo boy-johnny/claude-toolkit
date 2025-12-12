@@ -1,4 +1,4 @@
-# GOODA Dev Toolkit
+# Claude Toolkit
 
 A personal Claude Code plugin marketplace for streamlined development workflows.
 
