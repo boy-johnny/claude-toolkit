@@ -1,0 +1,45 @@
+{
+  "name": "Dev-toolkit",
+  "owner": {
+    "name": "GOODA",
+    "email": "support@gooda.my"
+  },
+  "plugins": [
+    {
+      "name": "feature-develop",
+      "source": "./feature-develop",
+      "description": "Guided feature development with codebase exploration, architecture design, and quality review",
+      "version": "1.0.0",
+      "author": {
+        "name": "GOODA"
+      }
+    },
+    {
+      "name": "commit-workflow",
+      "source": "./commit-workflow",
+      "description": "Streamlined git workflow with auto-commits, PR creation, and branch cleanup",
+      "version": "1.0.0",
+      "author": {
+        "name": "GOODA"
+      }
+    },
+    {
+      "name": "debug-toolkit",
+      "source": "./debug-toolkit",
+      "description": "Systematic debugging with bug hunting, error analysis, and trace logging",
+      "version": "1.0.0",
+      "author": {
+        "name": "GOODA"
+      }
+    },
+    {
+      "name": "design-studio",
+      "source": "./design-studio",
+      "description": "Create distinctive, production-grade frontend interfaces that avoid generic AI aesthetics",
+      "version": "1.0.0",
+      "author": {
+        "name": "GOODA"
+      }
+    }
+  ]
+}
